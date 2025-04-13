@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1895bae74ae374591452b5f6c5e5c1, type: 3}
+  m_Name: DisplaySettingsData
+  m_EditorClassIdentifier: 
+  SettingsSOData:
+  - rid: 7254999328328777738
+  - rid: 7254999328328777739
+  - rid: 7254999328328777740
+  - rid: 7254999328328777741
+  - rid: 7254999328857784321
+  settingsConnector: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 7254999328328777738
+      type: {class: ResolutionSettingsData, ns: , asm: Assembly-CSharp}
+      data:
+        settingName: ResolutionSettingsData
+    - rid: 7254999328328777739
+      type: {class: ScreenModeSettingData, ns: , asm: Assembly-CSharp}
+      data:
+        settingName: ScreenModeSettingData
+    - rid: 7254999328328777740
+      type: {class: FrameRateSettingsData, ns: , asm: Assembly-CSharp}
+      data:
+        settingName: FrameRateSettingsData
+        frameRates: 1e0000003c0000005a00000078000000f0000000
+    - rid: 7254999328328777741
+      type: {class: VSyncSettingsData, ns: , asm: Assembly-CSharp}
+      data:
+        settingName: VSyncSettingsData
+        vSyncOptions:
+        - Off
+        - Every V Blank
+        - Every Second V Blank
+    - rid: 7254999328857784321
+      type: {class: GraphicQualitySettingData, ns: , asm: Assembly-CSharp}
+      data:
+        settingName: GraphicQualitySettingData
