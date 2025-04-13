@@ -144,7 +144,7 @@ Material:
     - _EmissionEnabled: 0
     - _FlipbookBlending: 0
     - _FlipbookMode: 0
-    - _Fresnel_Power: 0
+    - _Fresnel_Power: 7.305994
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1

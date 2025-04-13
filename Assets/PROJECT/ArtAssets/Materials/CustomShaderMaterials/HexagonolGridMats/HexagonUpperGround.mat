@@ -120,12 +120,12 @@ Material:
     - _HexTiling: {r: 0.04, g: 0.04, b: 0, a: 0}
     - _InnerHexColor: {r: 0.683083, g: 0.69341, b: 0.7433963, a: 1}
     - _InnerNoiseTilling: {r: 0.01, g: 0.01, b: 0, a: 0}
-    - _InteractionCol: {r: 0.7515418, g: 0.2878546, b: 0.7355525, a: 0.5284474}
+    - _InteractionCol: {r: 0.27125853, g: 0.53323007, b: 0.80586416, a: 0.51380277}
     - _Noise_Tiling: {r: 0.04, g: 0.04, b: 0, a: 0}
     - _NormalsTilingOffset: {r: 0.11, g: 0.18, b: 0, a: 0}
     - _OuterHexColor1: {r: 0.32943386, g: 0.5297897, b: 0.5999999, a: 1}
     - _OuterHexColor2: {r: 0.107718006, g: 0.41437152, b: 0.4641509, a: 0}
-    - _PlayerPos: {r: -115.87539, g: 64.23807, b: 190.45932, a: 0}
+    - _PlayerPos: {r: -143.62743, g: 58.465183, b: 185.22821, a: 0}
     - _SpecularColor: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 0.045, g: 0.045, b: 0, a: 0}
   m_BuildTextureStacks: []
